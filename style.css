@@ -1,0 +1,52 @@
+ h1{ color:blue;
+     font-family:arial; 
+     text-align:center; 
+     background-color:black;     
+     opacity:0.75;
+   }
+ 
+.tips{ color: black; 
+font-weight:bold;
+     }
+
+a:link ,a:visited{color:blue;
+                  backround-color:black;
+                 }
+
+a:hover{color:red; 
+        background-color:white;
+        font-family:cursive;
+        font-size:20px;}
+
+.uppercase{ color:red;
+            text-transform:uppercase;}
+
+.points h1{ font-family:cursive;
+            color:green;text-align:left; 
+            background-color:white; 
+          }
+
+.image{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVxbdDfN-3rYdDPnUY2kV8doY0I4k3mV_LrxCB_PYOm_Qn5Wvtw");}
+
+ img{margin:100px;
+     width:500px;
+     height:500px;
+    }
+
+a.fashion_blog:link ,a.fashion_blog:visited{ border:10px solid grey ;
+     color:white ; 
+     background-color:black;
+     font-family:italic;padding:10px }
+a.fashion_blog:hover{ border: 1 px solid grey ;
+                      color:hotpink;  
+                      background-color:blue;
+                      paddinging:5px;
+                    }
+
+p{font-weight :bold;}
+
+#article{ color:pink; 
+          font-size:40px; 
+          text-transformed:capitalize;
+          font-family:cursive;
+         }
